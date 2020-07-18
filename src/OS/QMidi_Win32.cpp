@@ -2,9 +2,9 @@
  * Copyright 2012-2016 Augustin Cavalier <waddlesplash>
  * All rights reserved. Distributed under the terms of the MIT license.
  */
-#include "QMidiOut.h"
-#include "QMidiIn.h"
-#include "QMidiFile.h"
+#include "../QMidiOut.h"
+#include "../QMidiIn.h"
+#include "../QMidiFile.h"
 
 #include <QStringList>
 
